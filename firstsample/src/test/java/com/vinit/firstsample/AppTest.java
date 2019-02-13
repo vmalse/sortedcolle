@@ -7,6 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
+// this line is added to test git
 public class AppTest 
     extends TestCase
 {
